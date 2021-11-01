@@ -1,0 +1,23 @@
+{
+  "name": "morganeferreux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mogo-95/Marie-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mogo-95/Marie-project/issues"
+  },
+  "homepage": "https://github.com/Mogo-95/Marie-project#readme",
+  "dependencies": {
+    "validator": "^13.6.0"
+  }
+}
